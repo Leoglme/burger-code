@@ -1,1 +1,1 @@
-burger-code
+Projet individuel from scratch de 3 semaines, mon premier site dynamique avec une base de donnée MySql, il m'a permis de découvir le language de programmation Php l'objectif était de créer un petite site sur le thème du fastfood.
